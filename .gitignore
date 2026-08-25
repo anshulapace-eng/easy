@@ -1,3 +1,7 @@
 /vendor/
-/node_modules/
+/storage/logs/*
+/storage/sessions/*
+/storage/cache/*
+/storage/backups/*
 .env
+config.php
